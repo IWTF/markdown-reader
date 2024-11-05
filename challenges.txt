@@ -1,0 +1,53 @@
+3:"$Sreact.fragment"
+5:I[9275,[],""]
+6:I[1343,[],""]
+8:I[3120,[],"OutletBoundary"]
+a:I[3120,[],"MetadataBoundary"]
+c:I[3120,[],"ViewportBoundary"]
+e:I[6130,[],""]
+1:HL["/_next/static/css/7f2eb9502c344a91.css","style"]
+2:HL["/_next/static/css/e5da7a797ba53854.css","style"]
+0:{"P":null,"b":"oYP1o3J8SyUdGcRkX8KEz","p":"","c":["","challenges"],"i":false,"f":[[["",{"children":[["slug","challenges","d"],{"children":["__PAGE__?{\"slug\":\"challenges\"}",{}]}]},"$undefined","$undefined",true],["",["$","$3","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7f2eb9502c344a91.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["slug","challenges","d"],["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","$0:f:0:1:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$3","c",{"children":["$L7",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e5da7a797ba53854.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L8",null,{"children":"$L9"}]]}],{},null]},null]},null],["$","$3","h",{"children":[null,["$","$3","pi0_ounjeVP305sTMT697",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}]]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+f:I[231,["627","static/chunks/627-53a59bde871fda96.js","185","static/chunks/app/layout-990c1696c649a230.js"],""]
+4:["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","title",null,{"children":"ImageNet"}]}],["$","body",null,{"children":[["$","header",null,{"children":[["$","h1",null,{"className":"left","children":"My Website"}],["$","nav",null,{"className":"right","children":[["$","div",null,{"className":"stats","children":"14,197,122 images, 21841 synsets indexed"}],["$","ul",null,{"children":[["$","li","home",{"children":["$","$Lf",null,{"href":"/home","prefetch":true,"children":"Home"}]}],["$","li","download",{"children":["$","$Lf",null,{"href":"/download","prefetch":true,"children":"Download"}]}],["$","li","challenges",{"children":["$","$Lf",null,{"href":"/challenges","prefetch":true,"children":"Challenges"}]}],["$","li","about",{"children":["$","$Lf",null,{"href":"/about","prefetch":true,"children":"About"}]}]]}]]}]]}],["$","main",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"© 2024 My Markdown Website. All rights reserved."}]}]]}]]}]
+10:I[6341,["732","static/chunks/732-d5b57fde7a174b11.js","42","static/chunks/app/%5Bslug%5D/page-f4f57d4a9fc1cf5e.js"],"default"]
+11:Tf2f,<h2>ImageNet Large Scale Visual Recognition Challenge (ILSVRC)</h2>
+<hr>
+<h3>Competition</h3>
+<p>The ImageNet Large Scale Visual Recognition Challenge (ILSVRC) evaluates algorithms for object detection and image classification at large scale. One high level motivation is to allow researchers to compare progress in detection across a wider variety of objects -- taking advantage of the quite expensive labeling effort. Another motivation is to measure the progress of computer vision for large scale image indexing for retrieval and annotation.</p>
+<p>For details about each challenge please refer to the corresponding page.</p>
+<ul>
+<li><a href="./home">ILSVRC 2017</a></li>
+<li><a href="www.baidu.com">ILSVRC 2016</a></li>
+<li><a href="www.baidu.com">ILSVRC 2015</a></li>
+</ul>
+<h3>Workshop</h3>
+<p>Every year of the challenge there is a corresponding workshop at one of the premier computer vision conferences. The purpose of the workshop is to present the methods and results of the challenge. Challenge participants with the most successful and innovative entries are invited to present. Please visit the corresponding challenge page for workshop schedule and information.</p>
+<h3>Download</h3>
+<p>The most popular challenge is the ILSVRC 2012-2017 image classification and localization task. It is available on <a href="https://www.kaggle.com/c/imagenet-object-localization-challenge/overview/description">Kaggle</a>. For all other data please log in or request access.</p>
+<h3>Evaluation Server</h3>
+<p>The evaluation server can be used to evaluate image classification results on the test set of ILSVRC 2012-2017. Please see here for our submission policy. Importantly, you should not make more than 2 submissions per week.</p>
+<h3>Updates</h3>
+<ul>
+<li>October 10, 2019: The ILSVRC 2012 classification and localization test set has been updated. The Kaggle challenge and our download page both now contain the updated data.</li>
+<li>June 2, 2015: Follow-up update regarding status of the server</li>
+<li>May 19, 2015: Annoucement regarding the submission server</li>
+</ul>
+<h3>Citation</h3>
+<p>When reporting results of the challenges or using the datasets, please cite:</p>
+<ul>
+<li>Olga Russakovsky*, Jia Deng*, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, Alexander C. Berg and Li Fei-Fei. (* = equal contribution) ImageNet Large Scale Visual Recognition Challenge. IJCV, 2015. paper | bibtex | paper content on arxiv | attribute annotations
+Additional references</li>
+</ul>
+<p>These are some additional publications directly related to collecting the challenge dataset and evaluating the results. These papers are all discussed in the main paper above. Please refer to the individual challenge webpages for information about the most successful entries, and to the ImageNet publications page for a complete list of publications.</p>
+<ul>
+<li>J. Deng, O. Russakovsky, J. Krause, M. Bernstein, A. Berg, L. Fei-Fei. Scalable multi-label annotation. ACM conference on human factors in computing (CHI), 2014. pdf | bibtex | slides</li>
+<li>O. Russakovsky, J. Deng, Z. Huang, A. Berg and L. Fei-Fei, Detecting avocados to zucchinis: what have we done, and where are we going?, Proceedings of the International Conference of Computer Vision (ICCV). 2013. pdf | supplement | website | bibtex | slides | video</li>
+<li>H. Su, J. Deng, L. Fei-Fei. Crowdsourcing Annotations for Visual Object Detection. AAAI Human Computation Workshop, 2012. pdf</li>
+<li>J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li and L. Fei-Fei, ImageNet: A Large-Scale Hierarchical Image Database. IEEE Computer Vision and Pattern Recognition (CVPR), 2009. pdf | BibTex</li>
+</ul>
+<h3>Contact</h3>
+<p>Please feel free to send any questions or comments to <a href="mailto:imagenet.help.desk@gmail.com">imagenet.help.desk@gmail.com</a>.</p>7:["$","div",null,{"children":[["$","h1",null,{"children":"$undefined"}],["$","$L10",null,{"content":"$11"}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","link","1",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null
