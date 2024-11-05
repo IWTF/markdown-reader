@@ -1,21 +1,152 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #fff;
+  margin: 0;
+  font: 16px/24px Helvetica, Arial, sans-serif;
+  text-align: center;
+  border-top: 5px solid #4fb200;
+}
+
+header,
+main {
+  width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+footer {
+  font-size: 12px;
+  padding-top: 20px;
+  text-align: center;
+  width: 100%;
+  color: #888;
+}
+
+/* Header style */
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  margin-top: 50px;
+}
+
+header .stats {
+  color: #666;
+  font-size: 12px;
+  text-align: right;
+}
+
+nav ul {
+  margin-right: 250px;
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  /* 使用 flexbox 来横向排列 */
+}
+
+nav li:last-child {
+  margin-right: 0;
+  /* 最后的li不需要右间距 */
+}
+
+nav a {
+  color: #4fb200;
+  text-decoration: none;
+  /* 去除下划线 */
+  font-size: 16px;
+  padding: 5px 8px;
+  /* 为链接增加内边距 */
+  transition: background-color 0.3s ease, color 0.3s ease;
+  /* 添加平滑过渡效果 */
+}
+
+nav a:hover {
+  background-color: #f0f0f0;
+  /* 鼠标悬停时背景变灰 */
+  color: #377c00;
+}
+
+/* markdown-content style */
+.markdown-content {
+  font: 12px / 18px Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3,
+.markdown-content h4 {
+  color: #3f3f3f;
+  margin: 7px 0;
+}
+
+
+.markdown-content p {
+  margin: 10px 0;
+}
+
+.markdown-content hr {
+  border-top: 1px solid #e2e2e2;
+  height: 0;
+  width: 100%;
+}
+
+/* 代码高亮 & 代码复制 */
+.markdown-content pre {
+  position: relative;
+  padding: 1rem;
+  margin: 10px 0 !important;
+  background-color: #2e2e2e;
+  border-radius: 8px;
+  color: #f8f8f2;
+  overflow-x: auto;
+}
+
+.markdown-content .code-container {
+  position: relative;
+}
+
+.markdown-content .copy-btn {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  padding: 7px;
+  border: 1px solid #646464;
+  border-radius: 32px;
+  background-color: #343434;
+}
+
+.markdown-content .copy-btn:hover {
+  border-color: #1e90ff;
+}
+
+/* Table样式 */
+.markdown-content table{
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.markdown-content table td, table th{
+  border: 1px solid #cad9ea;
+  color: #666;
+  height: 30px;
+  line-height: 30px;
+}
+
+.markdown-content table thead th{
+  background-color: #CCE8EB;
+  width: 100px;
+}
+
+.markdown-content table tr:nth-child(odd){
+  background: #fff;
+}
+
+.markdown-content table tr:nth-child(even){
+  background: #F5FAFA;
 }
