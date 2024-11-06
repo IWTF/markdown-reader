@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "node ./scripts/createNojekyll.mjs",
     "start": "next start",
     "lint": "next lint",
     "deploy": "gh-pages -d out"
@@ -14,6 +15,7 @@
     "next": "15.0.2",
     "prismjs": "^1.29.0",
     "react": "19.0.0-rc-02c0e824-20241028",
+    "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "19.0.0-rc-02c0e824-20241028",
     "rehype-katex": "^7.0.1",
     "rehype-stringify": "^10.0.1",
