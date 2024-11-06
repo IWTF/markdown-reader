@@ -1,18 +1,20 @@
-2:"$Sreact.fragment"
-5:I[3120,[],"OutletBoundary"]
-7:I[3120,[],"MetadataBoundary"]
-9:I[3120,[],"ViewportBoundary"]
-b:I[6130,[],""]
+3:"$Sreact.fragment"
+6:I[3120,[],"OutletBoundary"]
+8:I[3120,[],"MetadataBoundary"]
+a:I[3120,[],"ViewportBoundary"]
+c:I[6130,[],""]
 1:HL["/markdown-reader/_next/static/css/4fe58944cdafedbf.css","style"]
-0:{"P":null,"b":"lJxqqtyBLd4PWnkEH9jah","p":"/markdown-reader","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$2","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/markdown-reader/_next/static/css/4fe58944cdafedbf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L3"]}],{"children":["__PAGE__",["$","$2","c",{"children":["$L4",null,["$","$L5",null,{"children":"$L6"}]]}],{},null]},null],["$","$2","h",{"children":[null,["$","$2","noWnJKaH5Rp1ZZJ4qk4nN",{"children":[["$","$L7",null,{"children":"$L8"}],["$","$L9",null,{"children":"$La"}],null]}]]}]]],"m":"$undefined","G":["$b","$undefined"],"s":false,"S":true}
-c:I[231,["627","static/chunks/627-67c3bd54cc10f72a.js","185","static/chunks/app/layout-990c1696c649a230.js"],""]
-d:I[9275,[],""]
-e:I[1343,[],""]
-3:["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","title",null,{"children":"ImageNet"}]}],["$","body",null,{"children":[["$","header",null,{"children":[["$","h1",null,{"className":"left","children":"My Website"}],["$","nav",null,{"className":"right","children":[["$","div",null,{"className":"stats","children":"14,197,122 images, 21841 synsets indexed"}],["$","ul",null,{"children":[["$","li","home",{"children":["$","$Lc",null,{"href":"/home","prefetch":true,"children":"Home"}]}],["$","li","download",{"children":["$","$Lc",null,{"href":"/download","prefetch":true,"children":"Download"}]}],["$","li","challenges",{"children":["$","$Lc",null,{"href":"/challenges","prefetch":true,"children":"Challenges"}]}],["$","li","about",{"children":["$","$Lc",null,{"href":"/about","prefetch":true,"children":"About"}]}]]}]]}]]}],["$","main",null,{"children":["$","$Ld",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"© 2024 My Markdown Website. All rights reserved."}]}]]}]]}]
-a:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-8:[["$","meta","0",{"charSet":"utf-8"}],["$","link","1",{"rel":"icon","href":"/markdown-reader/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
-6:null
-f:T404,<p>ImageNet is an image <code>database</code> organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. The project has been instrumental in advancing computer vision and deep learning research. The data is available for free to researchers for non-commercial use.</p>
+2:HL["/markdown-reader/_next/static/css/e5da7a797ba53854.css","style"]
+0:{"P":null,"b":"tcZqAX6LObimfiXAICLas","p":"/markdown-reader","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$3","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/markdown-reader/_next/static/css/4fe58944cdafedbf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":["__PAGE__",["$","$3","c",{"children":["$L5",[["$","link","0",{"rel":"stylesheet","href":"/markdown-reader/_next/static/css/e5da7a797ba53854.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L6",null,{"children":"$L7"}]]}],{},null]},null],["$","$3","h",{"children":[null,["$","$3","rcUhoSnB2OYh8UXcx4TKj",{"children":[["$","$L8",null,{"children":"$L9"}],["$","$La",null,{"children":"$Lb"}],null]}]]}]]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+d:I[231,["627","static/chunks/627-b02633cd0ba19d9a.js","185","static/chunks/app/layout-990c1696c649a230.js"],""]
+e:I[9275,[],""]
+f:I[1343,[],""]
+4:["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","title",null,{"children":"ImageNet"}]}],["$","body",null,{"children":[["$","header",null,{"children":[["$","h1",null,{"className":"left","children":"My Website"}],["$","nav",null,{"className":"right","children":[["$","div",null,{"className":"stats","children":"14,197,122 images, 21841 synsets indexed"}],["$","ul",null,{"children":[["$","li","home",{"children":["$","$Ld",null,{"href":"/home","prefetch":true,"children":"Home"}]}],["$","li","download",{"children":["$","$Ld",null,{"href":"/download","prefetch":true,"children":"Download"}]}],["$","li","challenges",{"children":["$","$Ld",null,{"href":"/challenges","prefetch":true,"children":"Challenges"}]}],["$","li","about",{"children":["$","$Ld",null,{"href":"/about","prefetch":true,"children":"About"}]}]]}]]}]]}],["$","main",null,{"children":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"children":["$","p",null,{"children":"© 2024 My Markdown Website. All rights reserved."}]}]]}]]}]
+b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","link","1",{"rel":"icon","href":"/markdown-reader/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+7:null
+10:I[6341,["169","static/chunks/169-e266f69519339eed.js","931","static/chunks/app/page-e9cf576b2884f2ad.js"],"default"]
+11:T173f,<p>ImageNet is an image <code>database</code> organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. The project has been instrumental in advancing computer vision and deep learning research. The data is available for free to researchers for non-commercial use.</p>
 <p>Mar 11 2021. ImageNet website update.</p>
 <pre><code class="language-python">import numpy as np
 
@@ -20,24 +22,42 @@ arr = np.array([1,2,3])
 </code></pre>
 <h1>GFM</h1>
 <h2>Autolink literals</h2>
-<p>www.example.com, https://example.com, and contact@example.com.</p>
+<p><a href="http://www.example.com">www.example.com</a>, <a href="https://example.com">https://example.com</a>, and <a href="mailto:contact@example.com">contact@example.com</a>.</p>
 <h2>Footnote</h2>
-<p>A note[^1]</p>
-<p>[^1]: Big note.</p>
+<p>A note<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label">1</a></sup></p>
 <h2>Strikethrough</h2>
-<p>~one~ or ~~two~~ tildes.</p>
+<p><del>one</del> or <del>two</del> tildes.</p>
 <h2>Table</h2>
-<p>| a | b  |  c |  d  |
-| - | :- | -: | :-: |
-| 1f | 2 | 3 |4 |</p>
+<table>
+<thead>
+<tr>
+<th>a</th>
+<th align="left">b</th>
+<th align="right">c</th>
+<th align="center">d</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1f</td>
+<td align="left">2</td>
+<td align="right">3</td>
+<td align="center">4</td>
+</tr>
+</tbody>
+</table>
 <h2>Tasklist</h2>
-<ul>
-<li>[ ] to do</li>
-<li>[x] done</li>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> to do</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> done</li>
 </ul>
-<p>Lift($$L$$) can be determined by Lift Coefficient ($$C_L$$) like the following
+<p>Lift(<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>L</mi></mrow><annotation encoding="application/x-tex">L</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">L</span></span></span></span>) can be determined by Lift Coefficient (<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>C</mi><mi>L</mi></msub></mrow><annotation encoding="application/x-tex">C_L</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">L</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>) like the following
 equation.</p>
-<p>$$
-L = \frac{1}{2} \rho v^2 S C_L
-$$</p>
-4:["$","div",null,{"children":["$","div",null,{"className":"content","dangerouslySetInnerHTML":{"__html":"$f"}}]}]
+<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>L</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>ρ</mi><msup><mi>v</mi><mn>2</mn></msup><mi>S</mi><msub><mi>C</mi><mi>L</mi></msub></mrow><annotation encoding="application/x-tex">L = \frac{1}{2} \rho v^2 S C_L</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal">L</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:2.0074em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3214em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mord mathnormal">ρ</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">v</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8641em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.05764em;">S</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.07153em;">C</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">L</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span>
+<section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes</h2>
+<ol>
+<li id="user-content-fn-1">
+<p>Big note. <a href="#user-content-fnref-1" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>5:["$","div",null,{"children":["$","$L10",null,{"content":"$11"}]}]
